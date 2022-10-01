@@ -1,0 +1,44 @@
+.navegador{
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.contenedor-codo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.contenedor-nav a{
+    text-decoration: none;
+    color: black;
+    display: inline-flex;
+    padding-left: 10px;
+}
+
+.input-group{
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cuerpo{
+    display: inline-flex;
+    padding: 0;
+}
+
+.card-title{
+    font-size: large;
+}
+
+.card-text{
+   font-size: medium;
+   
+}
+
+
+
